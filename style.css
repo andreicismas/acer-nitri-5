@@ -10,3 +10,8 @@
     color: rgba(59, 11, 107, 50%);
     text-transform: uppercase;
 }
+
+body{
+    background-color: blueviolet;
+    background-color: yellow;
+}
